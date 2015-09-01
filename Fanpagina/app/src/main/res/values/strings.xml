@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fanpagina</string>
+
+    <string name="language_nl">Nederlands</string>
+    <string name="language_en">Engels</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
